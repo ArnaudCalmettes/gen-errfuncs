@@ -5,7 +5,7 @@ A trivial tool to generate utility functions for a set of errors.
 ## Install
 
 ```
-go install github.com/ArnaudCalmettes/gen-errfuncs@v0.1.0
+go install github.com/ArnaudCalmettes/gen-errfuncs@v0.1.1
 ```
 
 ## Use
